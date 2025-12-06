@@ -1,7 +1,3 @@
-# Assignment 8  - Braille Text Analysis
-# File: assignment8.py
-# Author: Jay Li
-
 from turtle import *
 
 # Question 1 --------------------------------------------------------------------------------
